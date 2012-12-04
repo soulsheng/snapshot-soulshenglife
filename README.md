@@ -1,4 +1,7 @@
 snapshot-soulshenglife
 ======================
 
-snapshot printscreen 
+snapshot printscreen poster of movie @ website http://soulshenglife.sinaapp.com
+
+
+@microsoft skydrive:   http://sdrv.ms/VsCjjZ
